@@ -120,12 +120,12 @@ body{
 }
 
 .app-download:nth-child(1){
-	background-image: url('./images/google_play_badge.jpg');
+	background-image: url('google_play_badge.jpg');
 	background-repeat: no-repeat;
 }
 
 .app-download:nth-child(2){
-	background-image: url('./images/app_store_badge.jpg');
+	background-image: url('app_store_badge.jpg');
 	background-repeat: no-repeat;
 }
 
